@@ -1,4 +1,5 @@
 This is a Java program to test my personal website at www.pair.com/jsoper
+
 Select pages are functionally tested with Selenium Webdriver.  
 Firefox always works, most other OS/browser combinations work but a couple have issues.
 
