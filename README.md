@@ -4,6 +4,6 @@ Select pages are functionally tested with Selenium Webdriver.
 
 Firefox always works, most other OS/browser combinations work but a couple have issues.
 
-Javascript and Jquery functions are also tested with Qunit, a webpage based utility controlled by Selenium.
+Javascript and JQuery functions are also tested with Qunit, a webpage based utility controlled by Selenium.
 
 I found three direct Qunit drivers online but only one was in a Maven repository and the documentation was incorrect.
